@@ -1,0 +1,86 @@
+Ministry_05_06,Matched_Ministry_19_20,Match_Score,Match_Method
+Agriculture and Cooperation,1. Department of Agriculture Cooperation and Farmers' Welfare,100,token_set
+Shipping,87. Ministry of Shipping,100,ratio
+Scientific and Industrial Research,86. Department of Scientific and Industrial Research,100,ratio
+Science and Technology,84. Department of Science and Technology,100,ratio
+Land Resources,83. Department of Land Resources,100,ratio
+Rural Development,82. Department of Rural Development,100,ratio
+"The President, Parliament, Union Public Service Commission and the Secretariat of the Vice-President",78. Secretariat of the Vice-President,100,partial_ratio
+Power,74. Ministry of Power,100,ratio
+Planning,73. Ministry of Planning,100,ratio
+Petroleum and Natural Gas,72. Ministry of Petroleum and Natural Gas,100,ratio
+"Personnel, Public Grievances and Pensions",39. Pensions,100,partial_ratio
+Parliamentary Affairs,69. Ministry of Parliamentary Affairs,100,ratio
+Panchayati Raj@,68. Ministry of Panchayati Raj,100,ratio
+Agricultural Research and Education,2. Department of Agricultural Research and Education,100,ratio
+Supreme Court of India,63. Supreme Court of India,100,ratio
+Law and Justice,61. Law and Justice,100,ratio
+Election Commission,62. Election Commission,100,ratio
+Biotechnology,85. Department of Biotechnology,100,ratio
+Road Transport and Highways,81. Ministry of Road Transport and Highways,100,ratio
+Information and Broadcasting,59. Ministry of Information and Broadcasting,100,ratio
+Social Justice and Empowerment,74. Ministry of Power,100,partial_ratio
+Daman & Diu,52. Daman and Diu,100,ratio
+Dadra & Nagar Haveli,51. Dadra and Nagar Haveli,100,ratio
+Chandigarh,50. Chandigarh,100,ratio
+Andaman & Nicobar Islands,49. Andaman and Nicobar Islands,100,ratio
+North Eastern Region,23. Ministry of Development of North Eastern Region,100,partial_ratio
+Railways,80. Ministry of Railways,100,ratio
+Youth Affairs and Sports,99. Ministry of Youth Affairs and Sports,100,ratio
+Water Resources,97. Ministry of Water Resources River Development and Ganga Rejuvenation,100,partial_ratio
+Urban Development,56. Ministry of Housing and Urban Affairs,100,ratio
+Tribal Affairs,96. Ministry of Tribal Affairs,100,ratio
+Tourism,95. Ministry of Tourism,100,ratio
+Textiles,94. Ministry of Textiles,100,ratio
+Steel,93. Ministry of Steel,100,ratio
+Statistics and Programme Implementation,92. Ministry of Statistics and Programme Implementation,100,ratio
+Space,91. Department of Space,100,ratio
+Labour and Employment,60. Ministry of Labour and Employment,100,ratio
+Lakshadweep,53. Lakshadweep,100,ratio
+Women and Child Development,98. Ministry of Women and Child Development,100,ratio
+Defence Services,19. Ministry of Defence (Misc.),100,partial_ratio
+Culture,1. Department of Agriculture Cooperation and Farmers' Welfare,100,partial_ratio
+Secondary Education and Higher Education,58. Department of Higher Education,100,ratio
+Consumer Affairs,15. Department of Consumer Affairs,100,ratio
+Company Affairs,17. Ministry of Corporate Affairs,100,ratio
+Information Technology,26. Ministry of Electronics and Information Technology,100,ratio
+Telecommunications,14. Department of Telecommunications,100,ratio
+Posts,13. Department of Posts,100,ratio
+Industrial Policy and Promotion,12. Department of Industrial Policy and Promotion,100,ratio
+Commerce,11. Department of Commerce,100,ratio
+Mines,65. Ministry of Mines,100,ratio
+Coal,10. Ministry of Coal,100,ratio
+Civil Aviation,9. Ministry of Civil Aviation,100,ratio
+Fertilisers,7. Department of Fertilisers,100,ratio
+Atomic Energy,4. Atomic Energy,100,ratio
+Animal Husbandry and Dairying,3. Department of Animal Husbandry Dairying and Fisheries,100,token_set
+Defence (Civil estimates),19. Ministry of Defence (Misc.),100,ratio
+Food and Public Distribution,16. Department of Food and Public Distribution,100,ratio
+Development of North Eastern Region,23. Ministry of Development of North Eastern Region,100,ratio
+Public Enterprises,45. Department of Public Enterprises,100,ratio
+Environment and Forests,27. Ministry of Environment Forests and Climate Change,100,ratio
+Heavy Industry,44. Department of Heavy Industry,100,ratio
+Family Welfare,42. Department of Health and Family Welfare,100,partial_ratio
+Home Affairs,46. Ministry of Home Affairs,100,ratio
+Health,42. Department of Health and Family Welfare,100,partial_ratio
+Food Processing Industries,41. Ministry of Food Processing Industries,100,ratio
+Expenditure,30. Department of Expenditure,100,ratio
+Economic Affairs (centralised provisions),29. Department of Economic Affairs,100,ratio
+External Affairs,28. Ministry of External Affairs,100,ratio
+Elementary Education and Literacy,57. Department of School Education and Literacy,100,ratio
+Chemicals and Petro-Chemicals,6. Department of Chemicals and Petrochemicals,98,ratio
+Finance,31. Department of Financial Services,92,partial_ratio
+Disinvestment,32. Department of Investment and Public Asset Management (DIPAM),87,partial_ratio
+Ocean Development,82. Department of Rural Development,84,partial_ratio
+Drinking Water Supply,24. Ministry of Drinking Water and Sanitation,83,partial_ratio
+Overseas Indian Affairs@,46. Ministry of Home Affairs,80,partial_ratio
+Central Pool of Resources for NE and Sikkim,83. Department of Land Resources,79,partial_ratio
+UNION TERRITORIES,95. Ministry of Tourism,77,partial_ratio
+Union Territories with Legislature,18. Ministry of Culture,77,partial_ratio
+Union Territories without Legislature,18. Ministry of Culture,77,partial_ratio
+Pondicherry,55. Transfers to Puducherry,76,partial_ratio
+"Ayurveda, Yoga & Naturopathy, Unani, Siddha and Homoeopathy(AYUSH)",5. Ministry of Ayurveda Yoga and Naturopathy Unani Siddha and Homoeopathy (AYUSH),75,partial_ratio
+Agro and Rural Industries,65. Ministry of Mines,75,partial_ratio
+Small Scale Industries,10. Ministry of Coal,75,partial_ratio
+Non-Conventional Energy Sources,10. Ministry of Coal,75,partial_ratio
+DONER,,0,

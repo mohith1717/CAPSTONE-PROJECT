@@ -1,0 +1,86 @@
+Ministry_05_06,Matched_Ministry_15_16,Match_Score,Match_Method
+Agriculture and Cooperation,Agriculture and Cooperation,100,ratio
+Road Transport and Highways,Road Transport and Highways,100,ratio
+Biotechnology,Biotechnology,100,ratio
+Scientific and Industrial Research,Scientific and Industrial Research,100,ratio
+Science and Technology,Science and Technology,100,ratio
+Land Resources,Land Resources,100,ratio
+Rural Development,Rural Development,100,ratio
+"The President, Parliament, Union Public Service Commission and the Secretariat of the Vice-President",The President Parliament Union Public Service Commission and the Secretariat of the Vice President,100,token_sort
+Power,Power,100,ratio
+Planning,Planning,100,ratio
+Petroleum and Natural Gas,Petroleum and Natural Gas,100,ratio
+"Personnel, Public Grievances and Pensions",Personnel,100,partial_ratio
+Parliamentary Affairs,Parliamentary Affairs,100,ratio
+Panchayati Raj@,Panchayati Raj,100,ratio
+Overseas Indian Affairs@,Overseas Indian Affairs,100,ratio
+Supreme Court of India,Supreme Court of India,100,ratio
+Law and Justice,Law and Justice,100,ratio
+Shipping,Shipping,100,ratio
+Social Justice and Empowerment,Power,100,partial_ratio
+Labour and Employment,Labour and Employment,100,ratio
+Space,Space,100,ratio
+Daman & Diu,(7) Daman and Diu,100,ratio
+Dadra & Nagar Haveli,(6) Dadra and Nagar Haveli,100,ratio
+Chandigarh,(5) Chandigarh,100,ratio
+Andaman & Nicobar Islands,(4) Andaman and Nicobar Islands,100,ratio
+North Eastern Region,Development of North Eastern Region,100,partial_ratio
+DONER,B. DONER (gg+hh),100,partial_ratio
+Railways,Railways,100,ratio
+Youth Affairs and Sports,Youth Affairs and Sports,100,ratio
+Water Resources,Water Resources River Development and Ganga Rejuvenation,100,partial_ratio
+Urban Development,Urban Development,100,ratio
+Tribal Affairs,Tribal Affairs,100,ratio
+Tourism,Tourism,100,ratio
+Textiles,Textiles,100,ratio
+Steel,Steel,100,ratio
+Statistics and Programme Implementation,Statistics and Programme Implementation,100,ratio
+Election Commission,Election Commission,100,ratio
+Lakshadweep,(8) Lakshadweep,100,ratio
+Information and Broadcasting,Information and Broadcasting,100,ratio
+Posts,Posts,100,ratio
+Defence (Civil estimates),Defence(Civil Estimates),100,ratio
+Women and Child Development,Women and Child Development,100,ratio
+Food and Public Distribution,Food and Public Distribution,100,ratio
+Consumer Affairs,Consumer Affairs,100,ratio
+Company Affairs,Corporate Affairs,100,ratio
+Information Technology,Electronics and Information Technology,100,ratio
+Telecommunications,Telecommunications,100,ratio
+Industrial Policy and Promotion,Industrial Policy and Promotion,100,ratio
+Development of North Eastern Region,Development of North Eastern Region,100,ratio
+Commerce,Commerce,100,ratio
+Mines,Mines,100,ratio
+Coal,Coal,100,ratio
+Civil Aviation,Civil Aviation,100,ratio
+Fertilisers,Fertilisers,100,ratio
+Atomic Energy,Atomic Energy,100,ratio
+Animal Husbandry and Dairying,Animal Husbandry Dairying and Fisheries,100,token_set
+Defence Services,Defence(Civil Estimates),100,partial_ratio
+Culture,Agriculture and Cooperation,100,partial_ratio
+Environment and Forests,Environment Forests and Climate Change,100,ratio
+Health,Health and Family Welfare,100,partial_ratio
+Secondary Education and Higher Education,Higher Education,100,ratio
+Elementary Education and Literacy,School Education and Literacy,100,ratio
+Home Affairs,Home Affairs,100,ratio
+External Affairs,External Affairs,100,ratio
+Heavy Industry,Heavy Industry,100,ratio
+Family Welfare,Health and Family Welfare,100,partial_ratio
+Public Enterprises,Public Enterprises,100,ratio
+Disinvestment,Disinvestment,100,ratio
+Expenditure,Expenditure,100,ratio
+Economic Affairs (centralised provisions),Economic Affairs (Centralised Provisions),100,ratio
+Food Processing Industries,Food Processing Industries,100,ratio
+Chemicals and Petro-Chemicals,Chemicals and Petrochemicals,98,ratio
+Agricultural Research and Education,Agriculture Research and Education,96,ratio
+Central Pool of Resources for NE and Sikkim,gg. Grants from Central Pool of Resources for North Eastern Region and Sikkim,96,token_set
+Finance,Financial Services,92,partial_ratio
+Ocean Development,cc. Urban Development,90,partial_ratio
+Drinking Water Supply,Drinking Water and Sanitation,83,partial_ratio
+Pondicherry,(2) Puducherry,78,partial_ratio
+UNION TERRITORIES,Tourism,77,partial_ratio
+Union Territories with Legislature,Culture,77,partial_ratio
+Union Territories without Legislature,Culture,77,partial_ratio
+Small Scale Industries,Coal,75,partial_ratio
+"Ayurveda, Yoga & Naturopathy, Unani, Siddha and Homoeopathy(AYUSH)",Ayurveda Yoga & Naturopathy Unani Siddha and Homoeopathy ( AYUSH),75,partial_ratio
+Agro and Rural Industries,Mines,75,partial_ratio
+Non-Conventional Energy Sources,Coal,75,partial_ratio
