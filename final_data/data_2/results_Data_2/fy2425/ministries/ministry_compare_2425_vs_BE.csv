@@ -1,0 +1,56 @@
+Base_Ministry_raw,Base_Ministry,Sector_12,Actual_2025_BE,Naive_Lag1_2024,DL_Ensemble_2025,Linear_Ridge_2025,bm_norm,match_norm,match_score,Fiscal_Year,Year_End
+"AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homoeopathy)","Ayurveda, Yoga & Naturopathy, Unani, Siddha and Homoeopathy(AYUSH)",social and services,3647.5,3647.5,3920.4915645691754,3642.0391429692504,ayush ayurveda yoga and naturopathy unani siddha and homoeopathy,ayurveda yoga and naturopathy unani siddha and homoeopathy ayush,0.90625,24-25,2025
+Agricultural Research and Education,Agricultural Research and Education,agriculture forestry fishing,9941.09,9504.0,9719.66777178955,9468.623244438171,agricultural research and education,agricultural research and education,1.0,24-25,2025
+Andaman & Nicobar Islands,Andaman & Nicobar Islands,regional and development,192.32,192.32,470.3604230669404,201.6714402328491,andaman and nicobar islands,andaman and nicobar islands,1.0,24-25,2025
+Animal Husbandry and Dairying,Animal Husbandry and Dairying,agriculture forestry fishing,4327.85,4327.85,4295.180060095501,4304.952220097125,animal husbandry and dairying,animal husbandry and dairying,1.0,24-25,2025
+Atomic Energy,Atomic Energy,energy and natural resources,36159.93,25078.49,25166.977116115428,25121.382470122244,atomic energy,atomic energy,1.0,24-25,2025
+Biotechnology,Biotechnology,science and innovation,2683.86,2683.86,2752.012462215829,2697.373893769026,biotechnology,biotechnology,1.0,24-25,2025
+Civil Aviation,Civil Aviation,infrastructure and transport,3113.36,3113.36,3569.726066613045,3130.125275072098,civil aviation,civil aviation,1.0,24-25,2025
+Coal,Coal,energy and natural resources,192.32,192.32,263.5681503482055,195.21641081085204,coal,coal,1.0,24-25,2025
+Company Affairs,Company Affairs,governance and administration,756.19,756.19,800.6530075940943,758.2604185890199,company affairs,company affairs,1.0,24-25,2025
+Consumer Affairs,Consumer Affairs,food distribution,250.66,250.66,557.5518860511112,258.65318915309905,consumer affairs,consumer affairs,1.0,24-25,2025
+Culture,Culture,communication broadcasting culture and toursim,115531.79,115531.79,115431.30148527604,117644.20838642948,culture,culture,1.0,24-25,2025
+Defence Services,Defence Services,defense security,621941.0,22612.5,22460.5176011458,22619.84243774414,defence services,defence services,1.0,24-25,2025
+Development of North Eastern Region,Development of North Eastern Region,regional and development,5892.0,5892.0,5918.050778237343,5860.234476070404,development of north eastern region,development of north eastern region,1.0,24-25,2025
+Economic Affairs (centralised provisions),Economic Affairs (centralised provisions),economic services,5901.31,5901.31,7522.628847813898,6206.335525188923,economic affairs centralised provisions,economic affairs centralised provisions,1.0,24-25,2025
+Elementary Education and Literacy,Elementary Education and Literacy,social and services,68804.85,68804.85,67590.590438907,68497.8461131375,elementary education and literacy,elementary education and literacy,1.0,24-25,2025
+Environment and Forests,Environment and Forests,energy and natural resources,3079.4,3079.4,2962.191795593739,3140.0271485304834,environment and forests,environment and forests,1.0,24-25,2025
+External Affairs,External Affairs,governance and administration,18050.0,18050.0,19097.278648126125,18127.17993271351,external affairs,external affairs,1.0,24-25,2025
+Fertilisers,Fertilisers,energy and natural resources,145948.45,175148.48,172973.85968862707,174485.8144611618,fertilisers,fertilisers,1.0,24-25,2025
+Food Processing Industries,Food Processing Industries,food distribution,3287.65,3287.65,3189.34488068701,3275.0643002380134,food processing industries,food processing industries,1.0,24-25,2025
+Food and Public Distribution,Food and Public Distribution,food distribution,205513.94,205513.94,202230.031067981,204535.49652723185,food and public distribution,food and public distribution,1.0,24-25,2025
+Health,Health,social and services,90659.0,86175.0,86452.43893879652,85806.4963645041,health,health,1.0,24-25,2025
+Heavy Industry,Heavy Industry,economic services,6171.63,6171.63,5781.450729993052,6173.085628083658,heavy industry,heavy industry,1.0,24-25,2025
+Home Affairs,Home Affairs,defense security,219643.0,5901.31,6107.268409712272,5931.987651421952,home affairs,home affairs,1.0,24-25,2025
+Industrial Policy and Promotion (now DPIIT),Industrial Policy and Promotion,economic services,8200.63,8200.63,8287.021561349993,8298.729114310907,industrial policy and promotion,industrial policy and promotion,1.0,24-25,2025
+Information Technology,Information Technology,communication broadcasting culture and toursim,16549.04,16549.04,17068.12647948307,16590.299637512016,information technology,information technology,1.0,24-25,2025
+Information and Broadcasting,Information and Broadcasting,communication broadcasting culture and toursim,4692.0,4692.0,5238.773522821427,4729.659262905121,information and broadcasting,information and broadcasting,1.0,24-25,2025
+Labour and Employment,Labour and Employment,economic services,13221.73,13221.73,13385.008746553229,13428.628709430312,labour and employment,labour and employment,1.0,24-25,2025
+Land Resources,Land Resources,agriculture forestry fishing,2419.23,2419.23,2343.5429354447256,2404.779268860769,land resources,land resources,1.0,24-25,2025
+Law and Justice,Law and Justice,governance and administration,3975.43,3975.43,4667.132080937421,3984.7732136241434,law and justice,law and justice,1.0,24-25,2025
+Mines,Mines,energy and natural resources,1911.6,1911.6,2016.5895682276723,1915.989570493698,mines,mines,1.0,24-25,2025
+Panchayati Raj,Panchayati Raj@,agriculture forestry fishing,1016.42,1016.42,1030.5628600103569,1013.0778672277212,panchayati raj,panchayati raj,1.0,24-25,2025
+Parliamentary Affairs,Parliamentary Affairs,governance and administration,63.0,63.0,63.60892266511917,63.0840820813179,parliamentary affairs,parliamentary affairs,1.0,24-25,2025
+"Personnel, Public Grievances and Pensions","Personnel, Public Grievances and Pensions",governance and administration,71701.0,71701.0,72074.15438088584,71558.79306681156,personnel public grievances and pensions,personnel public grievances and pensions,1.0,24-25,2025
+Planning,Planning,economic services,824.39,824.39,788.8849950120032,834.2134928654671,planning,planning,1.0,24-25,2025
+Posts,Posts,communication broadcasting culture and toursim,25814.0,25814.0,26922.01801107883,25882.136265897752,posts,posts,1.0,24-25,2025
+Power,Power,energy and natural resources,20671.32,20671.32,20975.10635653727,20709.64472774105,power,power,1.0,24-25,2025
+Public Enterprises,Public Enterprises,economic services,33.05,33.05,31.74074266856313,33.41649895894527,public enterprises,public enterprises,1.0,24-25,2025
+Road Transport and Highways,Road Transport and Highways,infrastructure and transport,278000.0,270434.71,265591.52271866763,268332.4211210104,road transport and highways,road transport and highways,1.0,24-25,2025
+Rural Development,Rural Development,agriculture forestry fishing,190406.0,157545.0,150076.17631807207,155904.71313695313,rural development,rural development,1.0,24-25,2025
+Science and Technology,Science and Technology,science and innovation,7931.05,7931.05,7945.049423500527,7948.898012755513,science and technology,science and technology,1.0,24-25,2025
+Scientific and Industrial Research,Scientific and Industrial Research,science and innovation,5746.51,5746.51,5770.017817897332,5768.770700506688,scientific and industrial research,scientific and industrial research,1.0,24-25,2025
+Secondary Education and Higher Education,Secondary Education and Higher Education,social and services,44094.62,44094.62,48813.70900548059,44024.48130961642,secondary education and higher education,secondary education and higher education,1.0,24-25,2025
+Shipping,Shipping,infrastructure and transport,2218.74,2218.74,2205.494147527985,2224.704566036081,shipping,shipping,1.0,24-25,2025
+Social Justice and Empowerment,Social Justice and Empowerment,social and services,20671.32,20671.32,22105.48197777556,20653.38032952003,social justice and empowerment,social justice and empowerment,1.0,24-25,2025
+Space,Space,science and innovation,12543.91,12543.91,12951.48921626608,12618.994394756435,space,space,1.0,24-25,2025
+Statistics and Programme Implementation,Statistics and Programme Implementation,economic services,5443.4,10886.8,10874.76900601635,10933.5399990015,statistics and programme implementation,statistics and programme implementation,1.0,24-25,2025
+Steel,Steel,economic services,70.15,70.15,69.74238870672585,71.63741172909737,steel,steel,1.0,24-25,2025
+Telecommunications,Telecommunications,communication broadcasting culture and toursim,97579.05,97579.05,98463.95464570708,97308.28182982796,telecommunications,telecommunications,1.0,24-25,2025
+Textiles,Textiles,economic services,4389.34,4389.34,4427.234949771762,4467.1958374601845,textiles,textiles,1.0,24-25,2025
+Tourism,Tourism,communication broadcasting culture and toursim,2400.0,2400.0,2691.568309020996,2417.397960662842,tourism,tourism,1.0,24-25,2025
+Tribal Affairs,Tribal Affairs,regional and development,12461.88,24923.76,25031.243545644807,24818.112933145807,tribal affairs,tribal affairs,1.0,24-25,2025
+Urban Development,Urban Development,infrastructure and transport,76431.6,76431.6,79634.61769945307,76274.05370841981,urban development,urban development,1.0,24-25,2025
+Water Resources,Water Resources,energy and natural resources,20054.67,20054.67,20576.442379976354,20014.66971430635,water resources,water resources,1.0,24-25,2025
+Women and Child Development,Women and Child Development,social and services,25448.75,25448.75,27404.867179997564,25399.27682288289,women and child development,women and child development,1.0,24-25,2025
+Youth Affairs and Sports,Youth Affairs and Sports,social and services,3397.32,3397.32,3616.19730928113,3394.1399331540583,youth affairs and sports,youth affairs and sports,1.0,24-25,2025

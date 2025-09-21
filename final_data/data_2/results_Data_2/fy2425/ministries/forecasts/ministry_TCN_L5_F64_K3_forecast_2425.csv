@@ -1,0 +1,62 @@
+Sector_12,Base_Ministry,Fiscal_Year,Year_End,Naive_Lag1_2024,TCN_L5_F64_K3_DL_2025,TCN_L5_F64_K3_Blend_2025,alpha
+agriculture forestry fishing,Agricultural Research and Education,24-25,2025,9504.0,11281.140712738037,9504.0,0.0
+agriculture forestry fishing,Agriculture and Cooperation,24-25,2025,1150.38,1881.2481387090684,1150.38,0.0
+agriculture forestry fishing,Animal Husbandry and Dairying,24-25,2025,4327.85,5363.949798375368,4327.85,0.0
+agriculture forestry fishing,Drinking Water Supply,24-25,2025,77223.0,92777.25276267529,77223.0,0.0
+agriculture forestry fishing,Land Resources,24-25,2025,2419.23,2999.187971574068,2419.23,0.0
+agriculture forestry fishing,Panchayati Raj@,24-25,2025,1016.42,1183.0387608718872,1016.42,0.0
+agriculture forestry fishing,Rural Development,24-25,2025,157545.0,196815.12814342976,157545.0,0.0
+communication broadcasting culture and toursim,Culture,24-25,2025,115531.79,115471.54236232817,115531.79,0.0
+communication broadcasting culture and toursim,Information Technology,24-25,2025,16549.04,19381.67795815468,16549.04,0.0
+communication broadcasting culture and toursim,Information and Broadcasting,24-25,2025,4692.0,5881.287689208984,4692.0,0.0
+communication broadcasting culture and toursim,Posts,24-25,2025,25814.0,31023.96344947815,25814.0,0.0
+communication broadcasting culture and toursim,Telecommunications,24-25,2025,97579.05,115043.91052553058,97579.05,0.0
+communication broadcasting culture and toursim,Tourism,24-25,2025,2400.0,2951.3251304626465,2400.0,0.0
+defense security,Defence (Civil estimates),24-25,2025,22612.5,22975.012376904488,22612.5,0.0
+defense security,Defence Services,24-25,2025,22612.5,25649.13217127323,22612.5,0.0
+defense security,Home Affairs,24-25,2025,5901.31,6300.257620042563,5901.31,0.0
+economic services,Chemicals and Petro-Chemicals,24-25,2025,173.45,187.82622182965278,173.45,0.0
+economic services,Commerce,24-25,2025,5254.58,5941.082962377071,5254.58,0.0
+economic services,Economic Affairs (centralised provisions),24-25,2025,5901.31,7767.888225312234,5901.31,0.0
+economic services,Heavy Industry,24-25,2025,6171.63,6270.582280490398,6171.63,0.0
+economic services,Industrial Policy and Promotion,24-25,2025,8200.63,9582.355554554462,8200.63,0.0
+economic services,Labour and Employment,24-25,2025,13221.73,15961.159638748168,13221.73,0.0
+economic services,Planning,24-25,2025,824.39,994.7627881026268,824.39,0.0
+economic services,Public Enterprises,24-25,2025,33.05,35.05907214879989,33.05,0.0
+economic services,Small Scale Industries,24-25,2025,6171.63,5661.702555599213,6171.63,0.0
+economic services,Statistics and Programme Implementation,24-25,2025,10886.8,11534.43199520111,10886.8,0.0
+economic services,Steel,24-25,2025,70.15,76.41979138851167,70.15,0.0
+economic services,Textiles,24-25,2025,4389.34,4402.999443938732,4389.34,0.0
+energy and natural resources,Atomic Energy,24-25,2025,25078.49,27961.74228562236,25078.49,0.0
+energy and natural resources,Coal,24-25,2025,192.32,213.57273136138915,192.32,0.0
+energy and natural resources,Environment and Forests,24-25,2025,3079.4,3150.5969698905947,3079.4,0.0
+energy and natural resources,Fertilisers,24-25,2025,175148.48,243313.48658824922,175148.48,0.0
+energy and natural resources,Mines,24-25,2025,1911.6,1970.677786016464,1911.6,0.0
+energy and natural resources,Power,24-25,2025,20671.32,22393.075739364624,20671.32,0.0
+energy and natural resources,Water Resources,24-25,2025,20054.67,20433.340614398716,20054.67,0.0
+food distribution,Consumer Affairs,24-25,2025,250.66,252.42752094268798,250.66,0.0
+food distribution,Food Processing Industries,24-25,2025,3287.65,2776.762782984972,3287.65,0.0
+food distribution,Food and Public Distribution,24-25,2025,205513.94,300377.20367711305,205513.94,0.0
+governance and administration,Company Affairs,24-25,2025,756.19,740.1343868744374,756.19,0.0
+governance and administration,External Affairs,24-25,2025,18050.0,19228.428089618683,18050.0,0.0
+governance and administration,Law and Justice,24-25,2025,3975.43,3567.011423212886,3975.43,0.0
+governance and administration,Parliamentary Affairs,24-25,2025,63.0,64.68119251728058,63.0,0.0
+governance and administration,"Personnel, Public Grievances and Pensions",24-25,2025,71701.0,99959.82218134403,71701.0,0.0
+infrastructure and transport,Civil Aviation,24-25,2025,3113.36,2806.1510185146335,3113.36,0.0
+infrastructure and transport,Road Transport and Highways,24-25,2025,270434.71,367184.7420112431,270434.71,0.0
+infrastructure and transport,Shipping,24-25,2025,2218.74,2150.1724667930603,2218.74,0.0
+infrastructure and transport,Urban Development,24-25,2025,76431.6,90452.93932085038,76431.6,0.0
+regional and development,Andaman & Nicobar Islands,24-25,2025,192.32,229.6849896621704,192.32,0.0
+regional and development,Development of North Eastern Region,24-25,2025,5892.0,5223.472231864929,5892.0,0.0
+regional and development,Tribal Affairs,24-25,2025,24923.76,29859.753748826977,24923.76,0.0
+science and innovation,Biotechnology,24-25,2025,2683.86,2556.7506226873397,2683.86,0.0
+science and innovation,Science and Technology,24-25,2025,7931.05,7380.144812583923,7931.05,0.0
+science and innovation,Scientific and Industrial Research,24-25,2025,5746.51,5357.671140600443,5746.51,0.0
+science and innovation,Space,24-25,2025,12543.91,13167.140727421045,12543.91,0.0
+social and services,"Ayurveda, Yoga & Naturopathy, Unani, Siddha and Homoeopathy(AYUSH)",24-25,2025,3647.5,3986.143741309643,3647.5,0.0
+social and services,Elementary Education and Literacy,24-25,2025,68804.85,99555.40320253374,68804.85,0.0
+social and services,Health,24-25,2025,86175.0,127497.03700840473,86175.0,0.0
+social and services,Secondary Education and Higher Education,24-25,2025,44094.62,60344.606849701406,44094.62,0.0
+social and services,Social Justice and Empowerment,24-25,2025,20671.32,25044.58411213875,20671.32,0.0
+social and services,Women and Child Development,24-25,2025,25448.75,33857.5142788887,25448.75,0.0
+social and services,Youth Affairs and Sports,24-25,2025,3397.32,3605.499710969925,3397.32,0.0
